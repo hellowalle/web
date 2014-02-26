@@ -6,9 +6,9 @@ web方向研究
 
 
 ### 360度全景展示
-    * 示列地址: [http://www.arhome.cn/vtour195/] (http://www.arhome.cn/vtour195/)
+示列地址: [http://www.arhome.cn/vtour195/] (http://www.arhome.cn/vtour195/
 
-    * 优点: 身临其境的体验方式
+优点: 身临其境的体验方式
 
     * 应用场景: 汽车内饰360演示, 房屋装修360演示, 虚拟显示互动游戏等等.
 
