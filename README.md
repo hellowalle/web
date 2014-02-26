@@ -29,12 +29,12 @@ web方向研究
 * 研究方向: 新的互动创意玩法.
 
 
-### kinect for web app
-* 示列地址: http://v.youku.com/v_show/id_XMjU4MjExNjgw.html
+### kinect for windows app
+* 示列地址: http://v.youku.com/v_show/id_XNTU0MzU5MTU2.html
 
 * 优点: 通过动作捕捉技术, 结合虚拟和现实, 无缝互动.
 
-* 应用场景: 线下活动, 3D立体试衣镜 , 
+* 应用场景: 线下结合虚拟和真实场景的互动游戏, 3D立体试衣镜等等 
 
 * 实现方法: 摄像头捕捉用户动作, kinect sdk将动作处理为数据, 数据结合应用场景实现互动.
 
