@@ -29,7 +29,7 @@ web方向研究
 * 研究方向: 新的互动创意玩法.
 
 
-### kinect for windows app
+### kinect for web app
 * 示列地址: http://v.youku.com/v_show/id_XNTU0MzU5MTU2.html
 
 * 优点: 通过动作捕捉技术, 结合虚拟和现实, 无缝互动.
