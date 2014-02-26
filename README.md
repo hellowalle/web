@@ -33,7 +33,7 @@ web方向研究
 
 ### kinect for web app
 
-    示列地址: 
+    示列地址: http://v.youku.com/v_show/id_XMjU4MjExNjgw.html
 
     优点: 通过动作捕捉技术, 结合虚拟和现实, 无缝互动.
 
