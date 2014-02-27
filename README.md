@@ -18,7 +18,9 @@ web方向研究
 
 
 ### Html5 Websocket
-* 示列地址: 
+* 示列地址: http://kimi.imagchina.com/welab/apps/photowall/pc?photowall_id=522d40895c02e67815000002
+
+    (添加微信公众帐号"入厕宝", 发送照片, 照片会自动同步到上面的地址中)
 
 * 优点: 快速高效的服务器主动推送技术
 
